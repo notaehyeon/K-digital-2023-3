@@ -13,7 +13,7 @@
 + pnusw40	이재화 : https://github.com/jennjem003/
 + pnusw41	장우영 : https://github.com/JWY0717 
 + pnusw42	김상욱 : https://github.com/KimSangWook57
-+ pnusw43	노태현
++ pnusw43	노태현 : https://github.com/notaehyeon
 + pnusw44	김현우 : https://github.com/hwk44
 + pnusw45	강병민 : https://github.com/bm20050 
 + pnusw46	김형찬 : https://github.com/HyeongChank/HTML
